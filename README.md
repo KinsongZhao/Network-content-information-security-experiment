@@ -1,1 +1,3 @@
-# Network-content-information-security-experiment
+# 网络信息内容安全实验
+仅作实验记录
+存放关键代码以及实验结果
